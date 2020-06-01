@@ -1,5 +1,5 @@
 # Algorithm_04
-##Model 1
+## Model 1
 1. Model
 MODEL 1 : 3 Layers with 1 Concolution layer
 ![image](https://user-images.githubusercontent.com/55487601/83425838-3bcc7d80-a469-11ea-9319-314be3c2bf4a.png)
@@ -19,7 +19,7 @@ model.fit(train_images, train_labels,  epochs = 5)
 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55487601/83426255-d7f68480-a469-11ea-8fcd-750deab0e8a5.png)
 
-##Model 2
+## Model 2
 1. Model
 MODEL 2 : 5 Layers with 2 Convolution layer
 ![image](https://user-images.githubusercontent.com/55487601/83426961-f3ae5a80-a46a-11ea-8c64-87f64478bded.png)
@@ -37,15 +37,20 @@ Training Step
 5. Images and corresponding probability that predicted Wrong
 ![image](https://user-images.githubusercontent.com/55487601/83427204-530c6a80-a46b-11ea-8c47-493cb43fbf25.png)
 
-##Model 3
+## Model 3
 1. Model
 MODEL 3 : 7 Layers with 4 Convolution layer
+![image](https://user-images.githubusercontent.com/55487601/83427468-bb5b4c00-a46b-11ea-91c4-37d7563cdbec.png)
 
 2. Training with Training loss
 Training Step
+![image](https://user-images.githubusercontent.com/55487601/83428217-f447f080-a46c-11ea-97b9-de73cea67f96.png)
 
 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/55487601/83428285-13468280-a46d-11ea-8a0d-958847059c7f.png)
 
 4. Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/55487601/83428325-25282580-a46d-11ea-82a0-1bfb494175d3.png)
 
 5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/55487601/83428347-2eb18d80-a46d-11ea-8da5-265f2c3c611d.png)
