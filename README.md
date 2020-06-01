@@ -11,6 +11,7 @@ model.fit(train_images, train_labels,  epochs = 5)
 ![image](https://user-images.githubusercontent.com/55487601/83426042-8d750800-a469-11ea-81df-a06eb9d8bd70.png)
 
 3. Test Accuracy
+
 ![image](https://user-images.githubusercontent.com/55487601/83426427-11c78b00-a46a-11ea-9723-ceaa70787763.png)
 
 4. Images and corresponding probability that predicted Right
@@ -29,6 +30,7 @@ Training Step
 ![image](https://user-images.githubusercontent.com/55487601/83427074-1b9dbe00-a46b-11ea-84e8-53672820d529.png)
 
 3. Test Accuracy
+
 ![image](https://user-images.githubusercontent.com/55487601/83427136-396b2300-a46b-11ea-8b4d-551b16670355.png)
 
 4. Images and corresponding probability that predicted Right
@@ -47,6 +49,7 @@ Training Step
 ![image](https://user-images.githubusercontent.com/55487601/83428217-f447f080-a46c-11ea-97b9-de73cea67f96.png)
 
 3. Test Accuracy
+
 ![image](https://user-images.githubusercontent.com/55487601/83428285-13468280-a46d-11ea-8a0d-958847059c7f.png)
 
 4. Images and corresponding probability that predicted Right
