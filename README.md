@@ -22,15 +22,20 @@ model.fit(train_images, train_labels,  epochs = 5)
 ##Model 2
 1. Model
 MODEL 2 : 5 Layers with 2 Convolution layer
+![image](https://user-images.githubusercontent.com/55487601/83426961-f3ae5a80-a46a-11ea-8c64-87f64478bded.png)
 
 2. Training with Training loss
 Training Step
+![image](https://user-images.githubusercontent.com/55487601/83427074-1b9dbe00-a46b-11ea-84e8-53672820d529.png)
 
 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/55487601/83427136-396b2300-a46b-11ea-8b4d-551b16670355.png)
 
 4. Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/55487601/83427166-45ef7b80-a46b-11ea-8424-7f73e6e18966.png)
 
 5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/55487601/83427204-530c6a80-a46b-11ea-8c47-493cb43fbf25.png)
 
 ##Model 3
 1. Model
