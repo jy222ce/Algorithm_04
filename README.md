@@ -6,10 +6,11 @@ MODEL 1 : 3 Layers with 1 Concolution layer
 
 2. Training with Training loss
 Training Step
+Training for 5 epochs
 ![image](https://user-images.githubusercontent.com/55487601/83426042-8d750800-a469-11ea-81df-a06eb9d8bd70.png)
 
 3. Test Accuracy
-
+![image](https://user-images.githubusercontent.com/55487601/83426427-11c78b00-a46a-11ea-9723-ceaa70787763.png)
 
 4. Images and corresponding probability that predicted Right
 ![image](https://user-images.githubusercontent.com/55487601/83426207-c44b1e00-a469-11ea-9d38-e46e09b8a3de.png)
