@@ -7,6 +7,7 @@ MODEL 1 : 3 Layers with 1 Concolution layer
 2. Training with Training loss
 Training Step
 Training for 5 epochs
+model.fit(train_images, train_labels,  epochs = 5)
 ![image](https://user-images.githubusercontent.com/55487601/83426042-8d750800-a469-11ea-81df-a06eb9d8bd70.png)
 
 3. Test Accuracy
